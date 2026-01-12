@@ -113,32 +113,4 @@ Le projet est composé de trois services principaux :
 └── README.md
 ```
 
-## 📝 Journalisation
 
-La journalisation est configurée avec SLF4J et Logback. Les logs sont affichés dans la console et enregistrés dans des fichiers.
-
-## 🔍 Dépannage
-
-### Problèmes courants
-
-1. **Service non enregistré dans Eureka**
-   - Vérifiez que le serveur Eureka est en cours d'exécution
-   - Vérifiez la configuration de l'URL d'Eureka dans `application.properties`
-
-2. **Erreurs de connexion**
-   - Vérifiez que tous les services sont en cours d'exécution
-   - Vérifiez les numéros de port dans les fichiers de configuration
-
-## 🤝 Contributions
-
-Les contributions sont les bienvenues ! Voici comment contribuer :
-
-1. Forkez le projet
-2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/ma-nouvelle-fonctionnalite`)
-3. Committez vos changements (`git commit -am 'Ajout d'une nouvelle fonctionnalité'`)
-4. Poussez vers la branche (`git push origin feature/ma-nouvelle-fonctionnalite`)
-5. Créez une Pull Request
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
