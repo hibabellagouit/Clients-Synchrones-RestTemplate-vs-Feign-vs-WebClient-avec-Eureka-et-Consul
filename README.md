@@ -2,19 +2,6 @@
 
 Ce projet est une étude de cas comparant trois approches pour effectuer des appels synchrones entre microservices dans un environnement Spring Cloud.
 
-## 📋 Table des Matières
-- [Vue d'ensemble](#-vue-densemble)
-- [Architecture](#-architecture)
-- [Technologies Utilisées](#-technologies-utilisées)
-- [Configuration Requise](#-configuration-requise)
-- [Installation et Démarrage](#-installation-et-démarrage)
-- [Endpoints API](#-endpoints-api)
-- [Comparaison des Approches](#-comparaison-des-approches)
-- [Structure du Projet](#-structure-du-projet)
-- [Journalisation](#-journalisation)
-- [Dépannage](#-dépannage)
-- [Contributions](#-contributions)
-- [Licence](#-licence)
 
 ## 🌟 Vue d'ensemble
 
